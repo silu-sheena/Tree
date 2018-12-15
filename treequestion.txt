@@ -1,0 +1,65 @@
+1.Check if two given binary trees are identical or not | Iterative & Recursive
+2.Calculate height of a binary tree | Iterative & Recursive
+3.Delete given Binary Tree | Iterative & Recursive
+4.Inorder Tree Traversal | Iterative & Recursive
+5.Preorder Tree Traversal | Iterative & Recursive
+6.Postorder Tree Traversal | Iterative & Recursive
+7.Level Order Traversal of Binary Tree
+8.Spiral Order Traversal of Binary Tree
+9.Reverse Level Order Traversal of Binary Tree
+10.Print all nodes of a given binary tree in specific order
+11.Print left view of binary tree
+12.Print Bottom View of Binary Tree
+13.Print Top View of Binary Tree
+14.Find next node in same level for given node in a binary tree
+15.Check if given binary tree is complete binary tree or not
+16.Determine if given two nodes are cousins of each other
+17.Print cousins of given node in a binary tree
+18.In-place convert given binary tree to its sum tree
+19.Check if given binary tree is a sum tree or not
+20.Combinations of words formed by replacing given numbers with corresponding English alphabets
+21.Determine if given binary tree is a subtree of another binary tree or not
+22.Find diameter of a binary tree
+23.Check if given binary Tree has symmetric structure or not
+24.Convert binary tree to its mirror
+25.Check if binary tree can be converted to another by doing any no. of swaps of left & right child
+26.Find Lowest Common Ancestor (LCA) of two nodes in a binary tree
+27.Print all paths from root to leaf nodes in given binary tree
+28.Find ancestors of given node in a Binary Tree
+30.Find the distance between given pairs of nodes in a binary tree
+31.Find Vertical Sum in a given Binary Tree
+32.Print nodes in vertical order of a given Binary Tree (Vertical Traversal)
+33.Find the diagonal sum of given binary tree
+34.Print Diagonal Traversal of Binary Tree
+35.Print corner nodes of every level in binary tree
+36.In-place convert convert given Binary Tree to Doubly Linked List
+37.Sink nodes containing zero to the bottom of the binary tree
+38.Convert given binary tree to full tree by removing half nodes
+39.Truncate given binary tree to remove nodes which lie on a path having sum less than K
+40.Find maximum sum root-to-leaf path in a binary tree
+41.Check if given binary tree is height balanced or not
+42.Determine if given Binary Tree is a BST or not
+
+Binary Search Tree (BST)
+
+43.Insertion in BST
+44.Search given key in BST
+45.Deletion from BST
+46.Construct balanced BST from given keys
+47.Determine if given Binary Tree is a BST or not
+48.Check if given keys represents same BSTs or not without building the BST
+49.Find inorder predecessor for given key in a BST
+50.Find Lowest Common Ancestor (LCA) of two nodes in a Binary Search Tree
+51.Find K’th smallest and K’th largest element in BST
+52.Floor and Ceil in a Binary Search Tree
+53.Find optimal cost to construct binary search tree
+
+Trie
+
+54.Trie Implementation | Insert, Search and Delete
+55.Memory efficient Trie Implementation using Map | Insert, Search and Delete
+56.Longest Common Prefix in given set of strings (using Trie)
+57.Lexicographic sorting of given set of keys
+58.Find maximum occurring word in given set of strings
+59.Find first k maximum occurring words in given set of strings
+60.Find Duplicate rows in a binary matrix
