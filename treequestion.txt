@@ -1,3 +1,5 @@
+Question collected from Quora
+
 1.Check if two given binary trees are identical or not | Iterative & Recursive
 2.Calculate height of a binary tree | Iterative & Recursive
 3.Delete given Binary Tree | Iterative & Recursive
